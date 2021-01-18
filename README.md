@@ -1,0 +1,1 @@
+Example demonstrating Ecto.StaleEntryError raised with assoc `on_replace: :delete` option.
